@@ -24,8 +24,8 @@ This will reflect the average percentage of household income is used towards ren
 ![image](https://user-images.githubusercontent.com/100399092/200476433-f0e002a6-ac2f-4da4-adae-aaa18f8676db.png)
 
 ## Data Extracted From
-US Census Bureau - Report DP04
-Zillow - https://www.zillow.com/research/data/     List and Sales Prices dataset
+- US Census Bureau - Report DP04
+ - Zillow - https://www.zillow.com/research/data/     List and Sales Prices dataset
 
 #Flask app JSON data can be found at:
 https://real-estate-data.azurewebsites.net/
