@@ -6,10 +6,6 @@ Maria Hart, Taylor Shaw, Kayla Granados, Renee Holliday, Christy Martell
 ## Real Estate Data Summary
 In the midst of another housing crisis, with prices and rates continuing to skyrocket, it is a topic on many people’s minds. Specifically, we will focus on the following areas: home value, rent percentage, and highest and lowest median housing price in 2021. We additionally predicted housing prices based on certain features and certain areas using supervised machine learning regression models. 
 
-Our website has three interactive links you can choose from:
-
-![image](https://user-images.githubusercontent.com/100399092/200475123-eb81c67b-e10e-49b0-a5cd-32f1be480058.png)
-
 ## Housing Values
 This will reflect how many houses there are per cost bracket for each state. There is a drop down menu so the user can choose which state to view the data in a bar cart format.
 
