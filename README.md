@@ -22,6 +22,11 @@ These maps reflect the the highest 50 and lowest 50 median housing prices in the
 ## Machine Learning Models
 We ran extra trees regression and random forest classification models. 
 
+Extra Trees Regression and Linear Regression are supervised machine learning models that are used to predict a continuous value output. The model takes a set of features as input and predicts a continuous value as output. The dataset used to train the models was from Kaggle.com. The “Housing Prices Dataset” contained 13 features and 545 samples. While the Extra Trees Regression model returned a higher training score, there was a large disparity between the training score and testing score. If the test score is much higher than the training score, it may indicate that the model is overfitting to the training data. For the Linear Regression Model, while the training score was not as high as the Extra Trees Regression Model, the training score and testing score were closer together, thus producing a more accurate prediction model.
+
+Random Forest Classification: The plot gives us a visual of how unevenly our data is distributed when binned. We took the cleaned data used for the Regression Models and decided to run it through a Classification model. We first attempted to bin the data and use StandardScaler to improve accuracy. We then ran it through the Random Forest Classification model. What we observed is that the data is not equally distributed and was not easy to bin. It then returned with a training score and testing score of 1.0. This reflects the data is overfit and the model will not be able to generalize well to new, unseen data.
+
+
 ## Data Extracted From
 - US Census Bureau - Report DP04
  - Zillow - https://www.zillow.com/research/data/     List and Sales Prices dataset
