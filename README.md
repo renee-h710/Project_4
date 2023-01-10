@@ -7,19 +7,20 @@ Maria Hart, Taylor Shaw, Kayla Granados, Renee Holliday, Christy Martell
 In the midst of another housing crisis, with prices and rates continuing to skyrocket, it is a topic on many people’s minds. Specifically, we will focus on the following areas: home value, rent percentage, and highest and lowest median housing price in 2021. We additionally predicted housing prices based on certain features and certain areas using supervised machine learning regression models. 
 
 ## Housing Values
-This will reflect how many houses there are per cost bracket for each state. There is a drop down menu so the user can choose which state to view the data in a bar cart format.
+This reflects how many houses there are per cost bracket for each state. There is a drop down menu so the user can choose which state to view the data in a bar cart format.
 
 ![image](https://user-images.githubusercontent.com/100399092/200476533-4a796849-a251-44cf-b6eb-f336f4b4dd43.png)
 
 ## Gross Rent as Percentage of Household Income
-This will reflect the average percentage of household income is used towards rent. As you hover over each state, you will be able to view that statistic.
+This reflects the average percentage of household income is used towards rent for California, Pennsylvania, and Puerto Rico. 
 
-![image](<img width="1129" alt="Screen Shot 2023-01-09 at 10 01 03 PM" src="https://user-images.githubusercontent.com/83734241/211459090-ef32bf09-4285-490f-9ebb-12a47bf5d9bc.png">)
+![image]()
 
-
-## Highest and Lowest Median Housing Price in 2021 
+## Highest and Lowest Median Housing Price in 2022
+These maps reflect the the highest 50 and lowest 50 median housing prices in the United States.  
 
 ## Machine Learning Models
+We ran extra trees regression and random forest classification models. 
 
 ## Data Extracted From
 - US Census Bureau - Report DP04
