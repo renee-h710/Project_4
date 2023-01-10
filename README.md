@@ -14,7 +14,8 @@ This will reflect how many houses there are per cost bracket for each state. The
 ## Gross Rent as Percentage of Household Income
 This will reflect the average percentage of household income is used towards rent. As you hover over each state, you will be able to view that statistic.
 
-![image](https://user-images.githubusercontent.com/100399092/200476433-f0e002a6-ac2f-4da4-adae-aaa18f8676db.png)
+![image](<img width="1129" alt="Screen Shot 2023-01-09 at 10 01 03 PM" src="https://user-images.githubusercontent.com/83734241/211459090-ef32bf09-4285-490f-9ebb-12a47bf5d9bc.png">)
+
 
 ## Highest and Lowest Median Housing Price in 2021 
 
