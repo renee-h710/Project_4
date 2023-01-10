@@ -4,7 +4,7 @@
 Maria Hart, Taylor Shaw, Kayla Granados, Renee Holliday, Christy Martell
 
 ## Real Estate Data Summary
-In the midst of another housing crisis, with prices and rates continuing to skyrocket, it is a topic on many people’s minds. Specifically, we will focus on the following areas: housing occupancy, housing size, home value, and mortgage status. Our website will look at each of these factors individually for the year 2021.
+In the midst of another housing crisis, with prices and rates continuing to skyrocket, it is a topic on many people’s minds. Specifically, we will focus on the following areas: home value and highest and lowest median housing price in 2021. We additionally predicted housing prices based on certain features and certain areas using supervised machine learning regression models. 
 
 Our website has three interactive links you can choose from:
 
